@@ -24,7 +24,7 @@ Aplikasi ini memiliki fitur login/register, CRUD data motor, serta tampilan daft
 ## 📷 Screenshot
 -LOGIN PAGE
 ## Screenshot
-![Login Page](screenshots/LOGIN.png)
+<img src="screenshots/LOGIN.png" alt="Login Screen" width="300"/>
 
 ## 📂 Repository
 Link GitHub: [TokoMotor_UAS](https://github.com/tpzmous/TokoMotor_UAS)
