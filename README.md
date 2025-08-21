@@ -23,7 +23,7 @@ Aplikasi ini memiliki fitur login/register, CRUD data motor, serta tampilan daft
 
 ## 📷 Screenshot
 -LOGIN PAGE
-![Alt Text](https://ibb.co.com/S4ZckKkg)
+![LOGIN](https://ibb.co.com/S4ZckKkg)
 
 ## 📂 Repository
 Link GitHub: [TokoMotor_UAS](https://github.com/tpzmous/TokoMotor_UAS)
