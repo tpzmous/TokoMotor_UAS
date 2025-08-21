@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">tokoMotor</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="name">Nama Motor</string>
+    <string name="price">Harga</string>
+    <string name="image_url">URL Gambar</string>
+    <string name="add">Tambah</string>
+    <string name="save">Simpan</string>
+    <string name="update">Perbarui</string>
+    <string name="logout">Keluar</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Hapus</string>
+    <string name="no_data">Belum ada data</string>
+    <string name="nama_motor">Nama Motor</string>
+    <string name="rp0">Rp 0</string>
+    <string name="motor_image">Gambar motor</string>
+    <string name="add_motor">Tambah Motor</string>
+
+</resources>

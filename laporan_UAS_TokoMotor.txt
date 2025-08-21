@@ -1,0 +1,16 @@
+UJIAN AKHIR SEMESTER - Mobile Device Programming
+Aplikasi: tokoMotor
+
+Deskripsi:
+Aplikasi manajemen data motor dengan fitur login/register dan CRUD (SQLite).
+
+Fitur Utama:
+1. Login & Register (SharedPreferences)
+2. CRUD Motor: nama (String), harga (Double), gambar (URL) -> memenuhi tipe data
+3. Daftar data (RecyclerView) + animasi
+
+Teknologi:
+- Kotlin, AndroidX, Material, RecyclerView, SQLite (SQLiteOpenHelper), Glide.
+
+Screenshot: tambahkan dari emulator setelah run.
+Link Github: tambahkan setelah push.
