@@ -22,7 +22,7 @@ Aplikasi ini memiliki fitur login/register, CRUD data motor, serta tampilan daft
 - Manajemen Session: SharedPreferences
 
 ## 📷 Screenshot
-*(tambahkan gambar aplikasi di sini)*
+![Alt Text](https://link-ke-gambar.com/gambar.png)
 
 ## 📂 Repository
 Link GitHub: [TokoMotor_UAS](https://github.com/tpzmous/TokoMotor_UAS)
