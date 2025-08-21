@@ -39,7 +39,7 @@ Aplikasi ini memiliki fitur login/register, CRUD data motor, serta tampilan daft
 
 ### 📝 Register Page
 <p align="center">
-  <img src="screenshots/REGISTER.png" alt="Register Screen" width="300"/>
+  <img src="screenshots/Register.png" alt="Register Screen" width="300"/>
 </p>
 
 ### 🏠 Home / List Motor
