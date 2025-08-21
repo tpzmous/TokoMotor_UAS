@@ -23,7 +23,6 @@ Aplikasi ini memiliki fitur login/register, CRUD data motor, serta tampilan daft
 
 ## 📷 Screenshot
 -LOGIN PAGE
-## Screenshot
 <img src="screenshots/LOGIN.png" alt="Login Screen" width="300"/>
 
 ## 📂 Repository
