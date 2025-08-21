@@ -49,7 +49,7 @@ Aplikasi ini memiliki fitur login/register, CRUD data motor, serta tampilan daft
 
 ### ➕ Add/Edit Motor
 <p align="center">
-  <img src="screenshots/ADD_EDIT.png" alt="Add/Edit Screen" width="300"/>
+  <img src="screenshots/ADD.png" alt="Add/Edit Screen" width="300"/>
 </p>
 
 ### 📄 Detail Motor
